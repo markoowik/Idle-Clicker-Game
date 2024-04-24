@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Idle-Clicker-Game/my-app/static/css/main.a084dad8.css",
+    "main.js": "/Idle-Clicker-Game/my-app/static/js/main.25010a21.js",
+    "static/js/453.ed3810f9.chunk.js": "/Idle-Clicker-Game/my-app/static/js/453.ed3810f9.chunk.js",
+    "static/media/steps-full.wav": "/Idle-Clicker-Game/my-app/static/media/steps-full.9263823487b575d0994d.wav",
+    "static/media/please-calm-my-mind-125566.mp3": "/Idle-Clicker-Game/my-app/static/media/please-calm-my-mind-125566.1bf73e5a5c2f055f5926.mp3",
+    "static/media/FoneRev.png": "/Idle-Clicker-Game/my-app/static/media/FoneRev.5187b76dd8fb8083f554.png",
+    "static/media/Fone2.webp": "/Idle-Clicker-Game/my-app/static/media/Fone2.abd8b39abcb325d2270b.webp",
+    "static/media/Fone.webp": "/Idle-Clicker-Game/my-app/static/media/Fone.bc0277106d629a51ad78.webp",
+    "static/media/yellowCrystal.png": "/Idle-Clicker-Game/my-app/static/media/yellowCrystal.eba5b8bb4949603fa6ea.png",
+    "static/media/BuisnessPhone.webp": "/Idle-Clicker-Game/my-app/static/media/BuisnessPhone.4b285fcee8e9ec6b5ce6.webp",
+    "static/media/greenCrystal.png": "/Idle-Clicker-Game/my-app/static/media/greenCrystal.561f493bb4c974b82e47.png",
+    "index.html": "/Idle-Clicker-Game/my-app/index.html",
+    "main.a084dad8.css.map": "/Idle-Clicker-Game/my-app/static/css/main.a084dad8.css.map",
+    "main.25010a21.js.map": "/Idle-Clicker-Game/my-app/static/js/main.25010a21.js.map",
+    "453.ed3810f9.chunk.js.map": "/Idle-Clicker-Game/my-app/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a084dad8.css",
+    "static/js/main.25010a21.js"
+  ]
+}
